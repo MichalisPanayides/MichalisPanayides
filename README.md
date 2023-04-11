@@ -4,9 +4,9 @@
 - 🧾 Currently writing my [thesis](https://github.com/MichalisPanayides/Thesis/)
 - 👯 Looking to collaborate on open source software
 - 📫 Contact me either by email or [Twitter](https://twitter.com/Michalis_Pan)
-- 😄 Pronouns: He/him :male_sign:
-- 🔫 Preferred weapon of choice: Python 🐍
-- ⚡ Interests: Video/board game addict 🎮   Movie/TV show enthusiast 🎬   Sports fanatic :tennis: :ping_pong: :basketball:
+- 😄 **Pronouns**: He/him :male_sign:
+- 🔫 **Preferred weapon of choice**: Python 🐍
+- ⚡ **Interests**: Video/board game addict 🎮   Movie/TV show enthusiast 🎬   Sports fanatic :tennis: :ping_pong: :basketball:
 
 
 ## GitHub Stats
