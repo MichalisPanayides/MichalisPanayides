@@ -1,7 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub profile :sunglasses:
 
-- 🔭 PhD student at Cardiff University
-- 🧾 Currently writing my [thesis](https://github.com/MichalisPanayides/Thesis/)
+- 🔭 Completed my [PhD](https://github.com/MichalisPanayides/Thesis/) in Mathematics at Cardiff University
 - 👯 Looking to collaborate on open source software
 - 📫 Contact me either by email or [Twitter](https://twitter.com/Michalis_Pan)
 - 😄 **Pronouns**: He/him :male_sign:
