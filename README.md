@@ -1,6 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub profile :sunglasses:
 
 - 🔭 Completed my [PhD](https://github.com/MichalisPanayides/Thesis/) in Mathematics at Cardiff University
+- 💻 Currently working as a Machine Learning Engineer at Tulpa
 - 👯 Looking to collaborate on open source software
 - 📫 Contact me either by email or [Twitter](https://twitter.com/Michalis_Pan)
 - 😄 **Pronouns**: He/him :male_sign:
